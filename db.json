@@ -13,7 +13,7 @@
   },
   "notifications":[
   {
-    "companyName": "Denmark Company",
+    "companyName": "Denmark",
     "market": "Denmark",
     "companyId": "aad7a630-af1c-4952-9cb4-44b8b847853b",
     "notifications": [
@@ -25,19 +25,19 @@
     ]
   },
   {
-    "companyName": "Norway Company",
+    "companyName": "Norway",
     "market": "Norway",
     "companyId": "bbd7a630-af1c-4952-9cb4-44b8b847853b",
     "notifications": ["01/04/2022", "02/04/2022", "10/04/2022", "20/04/2022"]
   },
   {
-    "companyName": "Sweden Company",
+    "companyName": "Sweden",
     "market": "Sweden",
     "companyId": "ccd7a630-af1c-4952-9cb4-44b8b847853b",
     "notifications": ["01/04/2022", "07/04/2022", "14/05/2022", "28/05/2022"]
   },
   {
-    "companyName": "Finland Company",
+    "companyName": "Finland",
     "market": "Finland",
     "companyId": "ddd7a630-af1c-4952-9cb4-44b8b847853b",
     "notifications": [
